@@ -1,3 +1,6 @@
+<!-- #######  THIS IS A COMMENT - Visible only in the source editor #########-->
+<div id="_3008012_1" class="item clearfix">
+<h3 id="anonymous_element_22">Review: Final Team Project Introduction</h3>
 <div id="step1" class=" ">
 <div id="stepcontent1" class="  stepcontent  ">
 <ol role="presentation">
@@ -70,7 +73,7 @@
 <li>Submit the peer evaluation form individually.</li>
 </ul>
 <p>To understand how your work will be assessed, view the&nbsp;<a href="https://ole.sandiego.edu/bbcswebdav/pid-3008082-dt-content-rid-41062347_1/xid-41062347_1" target="_blank" rel="noopener">assignment rubric</a></p>
-<p>Click the assignment link above to submit your assignment.</p>
+
 </div>
 </div>
 </li>
